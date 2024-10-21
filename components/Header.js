@@ -79,6 +79,11 @@ const Header = () => {
                 Business Solution
               </li>
             </Link>
+            <Link href="/team-member">
+              <li className="text-[14px] text-white py-2 ">
+                Our Team
+              </li>
+            </Link>
             <Link href="/contact">
               <li className="text-[14px] text-white py-2 ">Contact us</li>
             </Link>
