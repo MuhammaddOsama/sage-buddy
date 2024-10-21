@@ -30,7 +30,7 @@ const About = () => {
               </h1>
               <p className="font-normal text-sm text-grey opacity-[65%] leading-5 pt-3">
                 SageBuddy is a super easy and simple in use for any retail
-                business. It's accuracy assures that you have a great command on
+                business. Its accuracy assures that you have a great command on
                 your business
               </p>
             </div>

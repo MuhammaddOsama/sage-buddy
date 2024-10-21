@@ -14,7 +14,7 @@ const Login = () => {
                 Sign In
               </h1>
               <p className="font-light text-sm text-grey pt-5 ">
-                Don't have an account yet?
+                Dont have an account yet?
                 <Link href="register">
                   <span className="font-normal text-sm text-orange pl-1">
                     Sign up
