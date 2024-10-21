@@ -71,15 +71,15 @@ const Header = () => {
                 LOGIN
               </button>
             </Link>
-            <Link href="/">
+            <Link href="/success-stories">
               <li className="text-[14px] text-white py-2 ">Success Stories</li>
             </Link>
-            <Link href="/">
+            <Link href="/bussiness-solution">
               <li className="text-[14px] text-white py-2 ">
                 Business Solution
               </li>
             </Link>
-            <Link href="/">
+            <Link href="/contact">
               <li className="text-[14px] text-white py-2 ">Contact us</li>
             </Link>
           </ul>
